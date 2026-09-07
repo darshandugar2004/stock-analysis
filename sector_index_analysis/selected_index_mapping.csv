@@ -1,0 +1,9 @@
+category,index_name,index_symbol,download_symbol,note
+Nifty Auto,Nifty Auto,^CNXAUTO,AUTOBEES.NS,"Tracks cars, trucks, auto parts, and vehicle makers. ETF proxy used because Yahoo returns only one row for the raw index."
+Nifty Bank,Nifty Bank,^NSEBANK,^NSEBANK,"Measures large, liquid private and public sector banks."
+Nifty Financial Services,Nifty Financial Services,^CNXFIN,FINIETF.NS,"Covers banks, non-banking finance, and insurance firms. ETF proxy used because Yahoo returns only one row for the raw index."
+Nifty FMCG,Nifty FMCG,^CNXFMCG,FMCGIETF.NS,Follows fast-moving consumer goods like food and personal care. ETF proxy used because Yahoo returns only one row for the raw index.
+Nifty IT,Nifty IT,^CNXIT,^CNXIT,Tracks software and technology service companies.
+Nifty Pharma,Nifty Pharma,^CNXPHARMA,^CNXPHARMA,Measures drug makers and medicine laboratories.
+Nifty Metal,Nifty Metal,^CNXMETAL,METALIETF.NS,"Follows steel, mining, and metal product producers. ETF proxy used because Yahoo returns only one row for the raw index."
+Nifty Realty,Nifty Realty,^CNXREALTY,^CNXREALTY,Tracks real estate development and construction firms. Yahoo may only return limited history for this raw index.
